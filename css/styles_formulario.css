@@ -179,3 +179,9 @@ label input:focus {
 .submit-btn:hover {
     opacity: 0.75;
 }
+
+.logo-form {
+    position: absolute;
+    top: 1.4rem;
+    left: 6.5rem;
+}
