@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #BDD5EA;
+}
+
+.logo-form {
+    position: absolute;
+    top: 1.4rem;
+    left: 6.5rem;
+}
+
+.card {
+    position: absolute;
+    top: 4rem;
+    left: 6.5rem;
+}
+
+.inframe {
+    position: absolute;
+    top: 4rem;
+    left: 38rem;
+}
+
+.image {
+    position: absolute;
+    top: 32rem;
+    left: 38rem;
+}
+
